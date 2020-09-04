@@ -78,6 +78,11 @@ input, select, textarea {
 	margin: 20px;
 }
 
+#idioma a {
+	margin-bottom: 40px;
+	color: #ffffff;
+}
+
 #container {
     position: relative;
     list-style: none;
