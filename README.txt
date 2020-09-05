@@ -25,6 +25,7 @@ Credits:
 
 	Icons:
 		Font Awesome (fontawesome.io)
+		Flaticon - Freepik (https://www.flaticon.es/autores/freepik)
 
 	Other:
 		jQuery (jquery.com)
